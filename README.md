@@ -1,6 +1,6 @@
-#  Input Mirror
-   - **Task**: Display real-time input from a text field.
+# **Simple Todo List**
+   - **Task**: Add items to a todo list.
    - **Steps**:
-     1. Initialize state with `useState('')` for the input value.
-     2. Create an input field.
-     3. Update and display the state as the user types.
+     1. Initialize state as an empty array.
+     2. Create an input field and a button to add items.
+     3. Display the list of items dynamically.
